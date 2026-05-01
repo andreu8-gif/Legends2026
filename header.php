@@ -15,7 +15,7 @@
 	
         <a href="index.php" class="logo d-flex align-items-center pr-5 pl-2">
           <img src="assets/img/legends_logo.png" alt="">
-          <span class="d-none d-lg-block">Legends Club - EURO Alemania 2024</span>
+          <span class="d-none d-lg-block">Legends Club - EURO Alemania 2026</span>
         </a>
       
     </div><!-- End Logo -->
